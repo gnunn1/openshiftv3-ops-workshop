@@ -20,7 +20,7 @@ vars:
 
 modules:
   activate:
-  - envirnoment_validation
+  - environment_validation
   - idling_applications
   - adding_an_additional_node
   - installing_and_using_cockpit
