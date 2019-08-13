@@ -20,13 +20,14 @@ vars:
 
 modules:
   activate:
+  #- envirnoment_validation
   - idling_applications
   - adding_an_additional_node
   - installing_and_using_cockpit
   - adding_an_ldap_provider
   - limiting_number_of_self-provisioned_projects
   - aggr_logging
-  - managing_scc
+  #- managing_scc
   - assigning_limit_ranges_and_quotas
   - managing_users_overview
   - assigning_users_to_project_roles
