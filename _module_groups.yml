@@ -16,6 +16,3 @@ vars:
   TERMINAL_URL: "https://terminal-infra.apps.rogers-6fff.openshiftworkshop.com"
   ETHERPAD_USERS_LIST: "http://etherpad-infra.apps.rogers-6fff.openshiftworkshop.com/p/users"
   JAVA_APP: true
-
-
-
