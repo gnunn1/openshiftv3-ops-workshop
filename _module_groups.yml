@@ -32,7 +32,7 @@ modules:
   - managing_users_overview
   - assigning_users_to_project_roles
   - oc_adm_top
-  - cns-3.7
+  #- cns-3.7
   - removing_node
   - cns
   - reset_node
