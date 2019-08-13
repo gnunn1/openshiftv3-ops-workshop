@@ -3,7 +3,7 @@ name: OpenShift Container Platform Workshop
 logo: OpenShift_Logo_Small.png
 
 content:
-  url: https://github.com/RedHatWorkshops/openshiftv3-ops-workshop/tree/asciidoc
+  url: https://github.com/gnunn1/openshiftv3-ops-workshop/tree/asciidoc
 
 vars:
   DEFAULT_PASSWORD: "openshift"
@@ -20,7 +20,7 @@ vars:
 
 modules:
   activate:
-  - environment_validation
+  - envirnoment_validation
   - idling_applications
   - adding_an_additional_node
   - installing_and_using_cockpit
@@ -48,4 +48,3 @@ modules:
   - standing_up_hosts_on_ec2
   - deploying_metrics
   - using_ootb_cockpit
-
