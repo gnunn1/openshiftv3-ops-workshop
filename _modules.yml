@@ -1,5 +1,4 @@
 config:
-  renderer: asciidoc
 
 modules:
   standing_up_hosts_on_ec2:
