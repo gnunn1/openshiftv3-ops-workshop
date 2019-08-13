@@ -18,33 +18,4 @@ vars:
   JAVA_APP: true
 
 
-modules:
-  activate:
-  #- envirnoment_validation
-  - idling_applications
-  - adding_an_additional_node
-  - installing_and_using_cockpit
-  - adding_an_ldap_provider
-  - limiting_number_of_self-provisioned_projects
-  - aggr_logging
-  #- managing_scc
-  - assigning_limit_ranges_and_quotas
-  - managing_users_overview
-  - assigning_users_to_project_roles
-  - oc_adm_top
-  #- cns-3.7
-  - removing_node
-  - cns
-  - reset_node
-  - creating_azure_persistent_volume
-  - sa_traing_post_installation
-  - creating_custom_roles
-  - setting_up_default_limit_ranges_and_quotas_for_projects
-  - creating_persistent_volume
-  #- setting_up_nonha_ocp_cluster
-  #- deploying_cfme
-  #- standing_up_hosts_on_azure
-  #- deploying_cockpit_as_a_container
-  #- standing_up_hosts_on_ec2
-  - deploying_metrics
-  #- using_ootb_cockpit
+
