@@ -41,10 +41,10 @@ modules:
   - creating_custom_roles
   - setting_up_default_limit_ranges_and_quotas_for_projects
   - creating_persistent_volume
-  - setting_up_nonha_ocp_cluster
-  - deploying_cfme
-  - standing_up_hosts_on_azure
-  - deploying_cockpit_as_a_container
-  - standing_up_hosts_on_ec2
+  #- setting_up_nonha_ocp_cluster
+  #- deploying_cfme
+  #- standing_up_hosts_on_azure
+  #- deploying_cockpit_as_a_container
+  #- standing_up_hosts_on_ec2
   - deploying_metrics
-  - using_ootb_cockpit
+  #- using_ootb_cockpit
